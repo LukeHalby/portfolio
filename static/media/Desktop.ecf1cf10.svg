@@ -1128,9 +1128,6 @@
        id="rect4857-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssccss">
-       <animate attributeName="fill" dur="8s" repeatCount="indefinite"
-                keyTimes="0; 0.5; 1"
-                values="#00fffd; #00ff9d; #00fffd" />
     </path>
     <g
        transform="matrix(0.81239569,0,0,0.81239569,95.331158,26.654052)"
@@ -2354,9 +2351,6 @@
        id="path11645"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc">
-       <animate attributeName="fill" dur="8s" repeatCount="indefinite"
-                keyTimes="0; 0.5; 1"
-                values="#00fffd; #00ff9d; #00fffd" />
     </path>
     <path
        style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:0.3203581px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.37b3a912.chunk.css",
+    "main.js": "/portfolio/static/js/main.8cb03958.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8cb03958.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.c47e4605.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.c47e4605.js.map",
+    "static/js/2.bcdec91b.chunk.js": "/portfolio/static/js/2.bcdec91b.chunk.js",
+    "static/js/2.bcdec91b.chunk.js.map": "/portfolio/static/js/2.bcdec91b.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.37b3a912.chunk.css.map": "/portfolio/static/css/main.37b3a912.chunk.css.map",
+    "static/js/2.bcdec91b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.bcdec91b.chunk.js.LICENSE.txt",
+    "static/media/Desktop.26205bfa.svg": "/portfolio/static/media/Desktop.26205bfa.svg",
+    "static/media/FirefoxLogo.45c2e620.svg": "/portfolio/static/media/FirefoxLogo.45c2e620.svg",
+    "static/media/LockScreen.a6c7fecb.svg": "/portfolio/static/media/LockScreen.a6c7fecb.svg",
+    "static/media/NotesLogo.0cbee65e.svg": "/portfolio/static/media/NotesLogo.0cbee65e.svg",
+    "static/media/ParallaxCharacters.f769ef7f.svg": "/portfolio/static/media/ParallaxCharacters.f769ef7f.svg",
+    "static/media/RLPlaza.a0632c12.svg": "/portfolio/static/media/RLPlaza.a0632c12.svg",
+    "static/media/RLPlazaLogo.b27b8538.svg": "/portfolio/static/media/RLPlazaLogo.b27b8538.svg",
+    "static/media/ScamCheck.8346410f.svg": "/portfolio/static/media/ScamCheck.8346410f.svg",
+    "static/media/ScamCheckLogo.2610e17d.svg": "/portfolio/static/media/ScamCheckLogo.2610e17d.svg",
+    "static/media/VSCodeLogo.a4b8e5c0.svg": "/portfolio/static/media/VSCodeLogo.a4b8e5c0.svg",
+    "static/media/WindowsDesktop.4311fecc.svg": "/portfolio/static/media/WindowsDesktop.4311fecc.svg",
+    "static/media/WindowsLogo.95b7526a.svg": "/portfolio/static/media/WindowsLogo.95b7526a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c47e4605.js",
+    "static/js/2.bcdec91b.chunk.js",
+    "static/css/main.37b3a912.chunk.css",
+    "static/js/main.8cb03958.chunk.js"
+  ]
+}
